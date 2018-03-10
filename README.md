@@ -57,7 +57,7 @@ These controls need to be put into place to provide defense-in-depth, which is t
 
 The types of controls that are actually implemented must map to the threats the company faces, and the number of layers that are put into place must map to the sensitivity of the asset. The rule of thumb is the more sensitive the asset, the more layers of protection that must be put into place.
 
-The differnt functionalities of security controls are __preventive__, __detective__, __corrective__, __deterrent__, __recovery__, and compensating.
+The differnt functionalities of security controls are __preventive__, __detective__, __corrective__, __deterrent__, __recovery__, and __compensating__.
 * Preventive: intended to avoid an incident from occurring
 * Detective: Helps identify an incident's activities and potentially an intruder
 * Corrective: Fixes components or systems after an incident has occurred
