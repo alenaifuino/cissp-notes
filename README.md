@@ -81,3 +81,22 @@ A security program is a framework made up of many entities: logical, administrat
 
 > **What NOT to do**: Security through Obscurity
 
+#### Security Program Development
+* ISO/IEC 27000 series: International standards on how to develop and maintain an ISMS developed by ISO and IEC
+
+#### Enterprise Architecture Development
+* Zachman Framework: Model for the development of enterprise architectures developed by John Zachman
+* TOGAF: Model and methodology for the development of enterprise architectures developed by The Open Group
+* DoDAF: US Department of Defense architecture framework that ensures interoperability of systems to meet military mission goals
+* MODAF: Architecture framework used mainly in military support missions developed by the British Ministry of Defense
+* SABSA model: Model and methodology for the development of information security enterprise architectures
+
+#### Security Controls Development
+* COBIT 5: A business framework to allow for IT enterprise management and governance that was developed by ISACA
+* NIST SP 800-53: Set of controls to protect US federal systems developed by the National Institute of Standards and Technology
+* COSO Internal Control-Integrated Framework: Set of internal corporate controls to help reduce the risk of financial fraud developed by the Committee of Sponsoring Organizations (COSO) of the Treadway Commission
+
+#### Process Management Development
+* ITIL: Processess to allow for IT service management developed by the United Kingdom's Office of Government Commerce
+* Six Sigma: Business management strategy that can be used to carry out process improvement
+* Capability Maturity Model Integration (CMMI) : Organizational development for process improvement developed by Carnegie Mellon University
