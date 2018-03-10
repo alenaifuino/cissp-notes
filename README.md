@@ -3,7 +3,6 @@
 ## Security and Risk Management
 The essence of our work as security professionals is our understanding of two key terms: security and risk.
 
-
 ### Fundamental Principles of Security
 The core goals of security, are to provide __availability__, __integrity__, and __confidentiality__ (often referred as CIA triad) protection for critical assets. All risks, threats, and vulnerabilities are measured for their potential capability to compromise one or all of the CIA principles.
 
@@ -38,7 +37,6 @@ Confidentiality ensures that the necessary level of secrecy is enforced at each 
 * Encryption for data in transit (IPSec, TLS, PPTP, SSH)
 * Access control (physical and technical)
 
-
 ### Security Definitions
 __Vulnerability__ is a weakness in a system that allows a threat source to compromise its security.  
 __Threat__ is any potential danger that is associated with the exploitation of a vulnerability. The entity that takes advantage of a vulnerability is referred to as a _threat agent_.  
@@ -47,7 +45,6 @@ __Exposure__ is an instance of being exposed to losses. A vulnerability exposes 
 __Control__ or countermeasure, is put into place to mitigate the potential risk.
 
 Applying the right countermeasure can eliminate the vulnerability and exposure, and thus reduce the risk. The company cannot eliminate the threat agent, but it can protect itself and prevent this threat agent from exploiting vulnerabilities within the environment.
-
 
 ### Control Types
 Controls are put into place to reduce the risk an organization faces, and they come in three main flavors: __administrative__, __technical__, and __physical__. Administrative controls are commonly referred to as "soft controls" because they are more management oriented (security documentation, risk management, training). Technical controls (also called logical controls) are software or hardware components (firewalls, IDS, encryption, identification and authentication mechanisms). And physical controls are items put into place to protect facility, personnel, and resources (security guards, locks, fencing)
@@ -79,5 +76,8 @@ When trying to map the functionality requirement to a control, think of the main
 
 Controls should work in harmony to provide healthy, safe, and productive environment.
 
-
 ### Security Frameworks
+A security program is a framework made up of many entities: logical, administrative, and physical protection mechanisms; procedures; business processes; and people that all work together to provide a protection level for an environment. Each has an important place in the framework, and if one is missing or incomplete, the whole framework may be affected. The program should work in layers: each layer provides support for the layer above it and protection for the layer below it.
+´´´
+What NOT to do: Security through Obscurity
+´´´
