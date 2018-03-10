@@ -70,5 +70,6 @@ It is not feasible to prevent everything; therefore, what you cannot prevent, yo
 When trying to map the functionality requirement to a control, think of the main reason that control would be put into place.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/halenai/cissp-notes/master/images/types_of_control.jpg" alt="Defense in Depth">
+  <img src="https://raw.githubusercontent.com/halenai/cissp-notes/master/images/types_of_control.jpg" alt="Types of Control A">
+  <img src="https://raw.githubusercontent.com/halenai/cissp-notes/master/images/types_of_control_2.jpg" alt="Types of Control B">
 </p>
