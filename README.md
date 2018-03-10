@@ -4,7 +4,7 @@
 The essence of our work as security professionals is our understanding of two key terms: security and risk.
 
 ### Fundamental Principles of Security
-The core goals of security, are to provide __availability__, ___integrity__, and __confidentiality__ (often referred as CIA triad) protection for critical assets. All risks, threats, and vulnerabilities are measured for their potential capability to compromise one or all of the CIA principles.
+The core goals of security, are to provide __availability__, __integrity__, and __confidentiality__ (often referred as CIA triad) protection for critical assets. All risks, threats, and vulnerabilities are measured for their potential capability to compromise one or all of the CIA principles.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/halenai/cissp-notes/master/images/CIA_triad.jpg" alt="CIA triad">
