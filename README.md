@@ -82,7 +82,7 @@ A security program is a framework made up of many entities: logical, administrat
 > **What NOT to do**: Security through Obscurity
 
 #### Security Program Development
-* ISO/IEC 27000 series: International standards on how to develop and maintain an ISMS developed by ISO and IEC
+* ISO/IEC 27000 series: International standards on how to develop and maintain an ISMS (Information Security Management System; aka Security Program) developed by ISO and IEC. The ISO/IEC 27000 series serves as industry best practices for the management of security controls in a holistic manner within organizations around the world. The list of standards that makes up this series grows each year. Each standard has a specific focus (such as metrics, governance, auditing, and so on).
 
 #### Enterprise Architecture Development
 * Zachman Framework: Model for the development of enterprise architectures developed by John Zachman
@@ -100,3 +100,4 @@ A security program is a framework made up of many entities: logical, administrat
 * ITIL: Processess to allow for IT service management developed by the United Kingdom's Office of Government Commerce
 * Six Sigma: Business management strategy that can be used to carry out process improvement
 * Capability Maturity Model Integration (CMMI) : Organizational development for process improvement developed by Carnegie Mellon University
+
