@@ -79,8 +79,5 @@ Controls should work in harmony to provide healthy, safe, and productive environ
 ### Security Frameworks
 A security program is a framework made up of many entities: logical, administrative, and physical protection mechanisms; procedures; business processes; and people that all work together to provide a protection level for an environment. Each has an important place in the framework, and if one is missing or incomplete, the whole framework may be affected. The program should work in layers: each layer provides support for the layer above it and protection for the layer below it.
 
-```
-<p style="text-align:center;">
-__What NOT to do__: Security through Obscurity
-</p>
-```
+> **What NOT to do**: Security through Obscurity
+
