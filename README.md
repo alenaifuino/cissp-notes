@@ -66,3 +66,6 @@ The differnt functionalities of security controls are __preventive__, __detectiv
 * Compensating: Controls that provide an alternative measure of control
 
 It is not feasible to prevent everything; therefore, what you cannot prevent, you should be able to quickly detect. That's why preventive and detective controls should always be implemented together and should complement each other.
+
+When trying to map the functionality requirement to a control, think of the main reason that control would be put into place.
+
