@@ -39,9 +39,13 @@ Confidentiality ensures that the necessary level of secrecy is enforced at each 
 
 ### Security Definitions
 __Vulnerability__ is a weakness in a system that allows a threat source to compromise its security.
+
 __Threat__ is any potential danger that is associated with the exploitation of a vulnerability. The entity that takes advantage of a vulnerability is referred to as a _threat agent_.
+
 __Risk__ is the likelihood of a threat source exploiting a vulnerability and the corresponding business impact. Risk ties the vulnerability, threat, and the likelihood of exploitation to the resulting business impact.
+
 __Exposure__ is an instance of being exposed to losses. A vulnerability exposes an organization to possible damages.
+
 __Control__ or countermeasure, is put into place to mitigate the potential risk.
 
 Applying the right countermeasure can eliminate the vulnerability and exposure, and thus reduce the risk. The company cannot eliminate the threat agent, but it can protect itself and prevent this threat agent from exploiting vulnerabilities within the environment.
