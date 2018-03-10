@@ -47,3 +47,22 @@ __Control__ or countermeasure, is put into place to mitigate the potential risk.
 Applying the right countermeasure can eliminate the vulnerability and exposure, and thus reduce the risk. The company cannot eliminate the threat agent, but it can protect itself and prevent this threat agent from exploiting vulnerabilities within the environment.
 
 ### Control Types
+Controls are put into place to reduce the risk an organization faces, and they come in three main flavors: __administrative__, __technical__, and __physical__. Administrative controls are commonly referred to as "soft controls" because they are more management oriented (security documentation, risk management, training). Technical controls (also called logical controls) are software or hardware components (firewalls, IDS, encryption, identification and authentication mechanisms). And physical controls are items put into place to protect facility, personnel, and resources (security guards, locks, fencing)
+
+These controls need to be put into place to provide defense-in-depth, which is the coordinated use of multiple security controls in a layered approach.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halenai/cissp-notes/master/images/defense_in_depth.jpg" alt="Defense in Depth">
+</p>
+
+The types of controls that are actually implemented must map to the threats the company faces, and the number of layers that are put into place must map to the sensitivity of the asset. The rule of thumb is the more sensitive the asset, the more layers of protection that must be put into place.
+
+The differnt functionalities of security controls are __preventive__, __detective__, __corrective__, __deterrent__, __recovery__, and compensating.
+* Preventive: intended to avoid an incident from occurring
+* Detective: Helps identify an incident's activities and potentially an intruder
+* Corrective: Fixes components or systems after an incident has occurred
+* Deterrent: Intended to discourage a potential attacker
+* Recovery: Intended to bring the environment back to regular operations
+* Compensating: Controls that provide an alternative measure of control
+
+It is not feasible to prevent everything; therefore, what you cannot prevent, you should be able to quickly detect. That's why preventive and detective controls should always be implemented together and should complement each other.
