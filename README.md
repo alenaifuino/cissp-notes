@@ -86,6 +86,8 @@ A security program is a framework made up of many entities: logical, administrat
 The ISO/IEC 27000 series serves as industry best practices for the management of security controls in a holistic manner within organizations around the world. The list of standards that makes up this series grows each year. Each standard has a specific focus (such as metrics, governance, auditing, and so on).
 
 #### Enterprise Architecture Development
+An architecture is a conceptual construct. It is a tool to help individuals understand a complex item (such as an enterprise) in digestible chunks.
+
 * Zachman Framework: Model for the development of enterprise architectures developed by John Zachman
 * TOGAF: Model and methodology for the development of enterprise architectures developed by The Open Group
 * DoDAF: US Department of Defense architecture framework that ensures interoperability of systems to meet military mission goals
