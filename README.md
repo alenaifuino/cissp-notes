@@ -82,13 +82,16 @@ A security program is a framework made up of many entities: logical, administrat
 > **What NOT TO DO**: Security through Obscurity
 
 #### Security Program Development
-* ISO/IEC 27000 series: International standards on how to develop and maintain an ISMS (Information Security Management System; aka Security Program) developed by ISO and IEC.  
-The ISO/IEC 27000 series serves as industry best practices for the management of security controls in a holistic manner within organizations around the world. The list of standards that makes up this series grows each year. Each standard has a specific focus (such as metrics, governance, auditing, and so on).
+* ISO/IEC 27000 series: International standards on how to develop and maintain an ISMS (Information Security Management System; aka Security Program) developed by ISO and IEC. Serves as industry best practices for the management of security controls in a holistic manner within organizations around the world. The list of standards that makes up this series grows each year. Each standard has a specific focus (such as metrics, governance, auditing, and so on).
 
 #### Enterprise Architecture Development
-An architecture is a conceptual construct. It is a tool to help individuals understand a complex item (such as an enterprise) in digestible chunks.
+An architecture is a conceptual construct. It is a tool to help individuals understand a complex item (such as an enterprise) in digestible chunks. An enterprise architecture encompasses the essential and unifying components of an organization. It expresses the enterprise structure (form) and behaviour (function). It embodies the enterprise's components, their relationships to each other, and their relationships to the environment.
 
-* Zachman Framework: Model for the development of enterprise architectures developed by John Zachman
+> You use the framework as a guideline on how to build and architecture that best fits your company's needs.
+
+An enterprise architecture allows you to not only understand the company from several different views, but also understand how a change that takes place at one level will affect items at other levels. It is used to optimize often fragmented processes (both manual and automated) into an integrated environment that is responsive to change and supportive of the business strategy
+
+* Zachman Framework: Model for the development of enterprise architectures developed by John Zachman. It is a two-dimensional model that uses six basic communication interrogatives (What, How, Where, Who, When, and Why) intersecting with different perspectives (Executives, Business Managers, System Architects, Engineers, Technicians, and Enterprise-wide) to give a holistic understanding of the enterprise. The goal of this framework is to be able to look at the same organization from different viewpoints. Different groups within a company need the same information, but presented in ways that directly relate to their responsibilities. This framework is not security oriented, but it is a good template to work with because it offers direction on how to understand an actual enterprise in a modular fashion.
 * TOGAF: Model and methodology for the development of enterprise architectures developed by The Open Group
 * DoDAF: US Department of Defense architecture framework that ensures interoperability of systems to meet military mission goals
 * MODAF: Architecture framework used mainly in military support missions developed by the British Ministry of Defense
