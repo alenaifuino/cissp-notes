@@ -74,15 +74,16 @@ When trying to map the functionality requirement to a control, think of the main
   <img src="https://raw.githubusercontent.com/halenai/cissp-notes/master/images/types_of_control_2.jpg" alt="Types of Control B">
 </p>
 
-Controls should work in harmony to provide healthy, safe, and productive environment.
+> Controls should work in harmony to provide healthy, safe, and productive environments.
 
 ### Security Frameworks
 A security program is a framework made up of many entities: logical, administrative, and physical protection mechanisms; procedures; business processes; and people that all work together to provide a protection level for an environment. Each has an important place in the framework, and if one is missing or incomplete, the whole framework may be affected. The program should work in layers: each layer provides support for the layer above it and protection for the layer below it.
 
-> **What NOT to do**: Security through Obscurity
+> **What NOT TO DO**: Security through Obscurity
 
 #### Security Program Development
-* ISO/IEC 27000 series: International standards on how to develop and maintain an ISMS (Information Security Management System; aka Security Program) developed by ISO and IEC. The ISO/IEC 27000 series serves as industry best practices for the management of security controls in a holistic manner within organizations around the world. The list of standards that makes up this series grows each year. Each standard has a specific focus (such as metrics, governance, auditing, and so on).
+* ISO/IEC 27000 series: International standards on how to develop and maintain an ISMS (Information Security Management System; aka Security Program) developed by ISO and IEC.  
+The ISO/IEC 27000 series serves as industry best practices for the management of security controls in a holistic manner within organizations around the world. The list of standards that makes up this series grows each year. Each standard has a specific focus (such as metrics, governance, auditing, and so on).
 
 #### Enterprise Architecture Development
 * Zachman Framework: Model for the development of enterprise architectures developed by John Zachman
